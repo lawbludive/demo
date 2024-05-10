@@ -2,3 +2,4 @@ This is my first text.
 Nice to start this journey.
 I am available for the gig.
 It has been nice working with this VCS.
+This is getting better.
